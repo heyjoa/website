@@ -1,0 +1,114 @@
+h1 {
+    padding: 80px 180px 0px 180px;
+    font-size: 40px;
+    font-family: "Alan Sans", sans-serif;
+}
+
+h2 {
+    padding: 0px 180px 0px 180px;
+    font-family: "Alan Sans", sans-serif;
+}
+
+h3 {
+    padding: 0px 180px 0px 180px;
+    font-family: "Alan Sans", sans-serif;
+}
+
+p {
+    padding: 0px 180px 0px 180px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header {
+    text-align: center;
+    width: 400px;
+    top: 0;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin: auto;
+    right: 50;
+    left: 50;
+    position: fixed;
+    padding: 10px 10px 10px 10px;
+    background-color: #3c2140;
+    font-size: 19px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.footer {
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 10px;
+    font-size: 19px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: #16030f;
+    color: #F1F2EB;
+}
+
+table {
+    color: #F1F2EB;
+}
+
+table, th, td {
+      border: 1px solid rgb(255, 255, 255);
+      border-collapse: collapse;
+      margin: 0px 180px 0px 180px;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+td {
+    padding: 6px;
+}
+
+th {
+    padding: 10px;
+}
+
+a {
+    color: #bbddf3;
+}
+
+.AGHE {
+    float: right;
+}
+
+.AGHE img {
+    width: 350px;
+    padding: 0px 180px 0px 80px;
+}
+
+.AGHE p {
+    padding: 0px 0px 0px 100px;
+}
+
+li {
+    margin: 0px 180px 0px 180px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.welcome h1 {
+    font-size: 70px;
+}
+
+.welcome p {
+    font-size: 18px;
+}
+
+.baby-gif img {
+    float: right;
+    width: 250px;
+    padding: 100px 180px 0px 0px;
+}
+
+.foodlabel img {
+    width: 300px;
+    margin: 20px 0px 0px 400px;
+}
+
+.foodlabel p {
+    padding: 0px 0px 0px 410px;
+}
